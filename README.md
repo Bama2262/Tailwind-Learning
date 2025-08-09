@@ -24,6 +24,7 @@ This is a personal portfolio website showcasing my profile, projects, and contac
 ## How to Run
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/Bama2262/Tailwind-Learning.git
 
