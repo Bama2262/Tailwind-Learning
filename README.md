@@ -32,7 +32,7 @@ This is a personal portfolio website showcasing my profile, projects, and contac
 
 ---
 
-# 📁 Folder Structure
+## 📁 Folder Structure
 
     ├── Assets/
     │   ├── photo.jpg
