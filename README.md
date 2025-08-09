@@ -33,7 +33,6 @@ This is a personal portfolio website showcasing my profile, projects, and contac
 
 # Folder Structure
 
--   ```bash
     ├── Assets/
     │   ├── photo.jpg
     │   ├── mockup-1.png
