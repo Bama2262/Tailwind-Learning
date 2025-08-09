@@ -1,6 +1,6 @@
-# Tailwind-Learning - Personal Website
+# 💨 Tailwind-Learning
 
-This is a personal portfolio website showcasing my profile, projects, and contact information with a clean and responsive design. Built using HTML and Tailwind CSS, featuring dark mode and smooth scrolling.
+This is a personal portfolio website showcasing my profile, projects, and contact information with a clean and responsive design. Built using HTML and Tailwind CSS.
 
 ---
 
@@ -41,11 +41,5 @@ This is a personal portfolio website showcasing my profile, projects, and contac
     │   └── mockup-3.png
     ├── index.html
     └── README.md
-
----
-
-## Contact
-
-Feel free to reach out via the contact form on the website or by email for any inquiries or collaboration.
 
 ---
