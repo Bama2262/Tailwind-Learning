@@ -1,10 +1,10 @@
-# 💨 Tailwind-Learning
+# 💨 Tailwind Learning
 
 This is a personal portfolio website showcasing my profile, projects, and contact information with a clean and responsive design. Built using HTML and Tailwind CSS.
 
 ---
 
-## Features
+## ✨ Features
 
 - **Sticky Navbar** with smooth scrolling navigation to Home, About, Projects, and Contact sections.
 - **Home Section:** Introduction with a photo and a call-to-action button to view projects.
@@ -14,14 +14,14 @@ This is a personal portfolio website showcasing my profile, projects, and contac
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - Tailwind CSS (via CDN)
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
 1. Clone this repository:
 
@@ -32,7 +32,7 @@ This is a personal portfolio website showcasing my profile, projects, and contac
 
 ---
 
-# Folder Structure
+# 📁 Folder Structure
 
     ├── Assets/
     │   ├── photo.jpg
